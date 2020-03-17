@@ -21,7 +21,7 @@ Your first objective is to build a series of scatter plots to showcase the follo
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
 
-After each plot add a sentence or two explaining what the code is and analyzing.
+After each plot add a sentence or two explaining what the code is and analyzing it.
 
 Your next objective is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
