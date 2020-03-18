@@ -1,2 +1,3 @@
-# Don't upload the following file
 api_keys.py
+__pycache__
+.ipynb_checkpoints
